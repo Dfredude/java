@@ -1,6 +1,6 @@
 package Chapter06;
 
-public class dReadInput {
+public class DReadInput {
 	public static void main(String numbers[]) {
 		//4 strings are taken as "numbers" arguments
 		float num_1 = Float.parseFloat(numbers[0]);

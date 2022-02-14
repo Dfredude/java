@@ -1,6 +1,6 @@
 package Chapter06;
 
-public class cVariables {
+public class CVariables {
 	public static void main(String args[]) {
 		int my_num = 5;
 		String my_string = "I got ";

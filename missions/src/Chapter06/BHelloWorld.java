@@ -1,5 +1,5 @@
 package Chapter06;
 
-public class bHelloWorld {
+public class BHelloWorld {
 	public static void main(String args[]) {System.out.println("Hello world");}
 }

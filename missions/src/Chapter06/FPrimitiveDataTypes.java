@@ -1,6 +1,6 @@
 package Chapter06;
 
-public class fPrimitiveDataTypes {
+public class FPrimitiveDataTypes {
 	public static void main(String args[]) {
 		byte bool_min = boolToByte(Boolean.FALSE), bool_max = boolToByte(Boolean.TRUE);
 		byte byte_min = Byte.MIN_VALUE, byte_max = Byte.MAX_VALUE;
@@ -15,6 +15,7 @@ public class fPrimitiveDataTypes {
 		System.out.println("Short's min value: "+short_min+ " & max value: "+short_max);
 		System.out.println("Char's min value: "+char_min+ " & max value: "+char_max);
 		System.out.println("Int's min value: "+int_min+ " & max value: "+int_max);
+		System.out.println("Long's min value: "+long_min+ " & max value: "+long_max);
 		System.out.println("Float's min value: "+float_min+ " & max value: "+float_max);
 		System.out.println("Double's min value: "+double_min+ " & max value: "+double_max);
 	}

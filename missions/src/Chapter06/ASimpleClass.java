@@ -1,5 +1,5 @@
 package Chapter06;
 
-public class aSimpleClass {
+public class ASimpleClass {
 	public static void main(String[] args) {}
 }
