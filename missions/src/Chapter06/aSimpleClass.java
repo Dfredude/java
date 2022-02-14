@@ -1,0 +1,5 @@
+package Chapter06;
+
+public class aSimpleClass {
+	public static void main(String[] args) {/*Does nothing*/}
+}
