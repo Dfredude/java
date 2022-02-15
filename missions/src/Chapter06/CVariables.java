@@ -1,4 +1,4 @@
-package Chapter06;
+package chapter06;
 
 public class CVariables {
 	public static void main(String args[]) {

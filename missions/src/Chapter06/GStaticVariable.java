@@ -1,7 +1,8 @@
-package Chapter06;
+package chapter06;
 
 public class GStaticVariable {
 	public static int my_int = 45;
+	@SuppressWarnings("static-access")
 	public static void main(String[] args) {
 		System.out.println("I can access my statics variables outside a method: "+my_int+" & "+ my_other_static_int);
 		GStaticVariable.my_int++; 

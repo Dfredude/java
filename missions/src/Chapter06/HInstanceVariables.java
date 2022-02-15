@@ -1,4 +1,4 @@
-package Chapter06;
+package chapter06;
 
 public class HInstanceVariables {
 	HInstanceVariables(){
@@ -9,6 +9,7 @@ public class HInstanceVariables {
 		int my_int = 5;
 		System.out.println("I can only access non static variables when they are within the local scope: "+my_int);
 		System.out.println("They also aren't shared with different instances");
+		@SuppressWarnings("unused")
 		HInstanceVariables constructing_class = new HInstanceVariables(); //When creating a constructor, bad practice within the class itself though
 		myClass exampleObjectInstance = new myClass();
 		System.out.println("At construction: "+exampleObjectInstance.getInt());
