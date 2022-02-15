@@ -1,7 +1,7 @@
 # Questions
 
 ## 1. Code labeled
-> ![Labels](../../bin/chapter06/Labels.png)
+> ![Labels](Labels.png)
 
 ## 2. What is the definition of a variable
 - Data values that can change
