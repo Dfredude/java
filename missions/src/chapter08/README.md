@@ -1,6 +1,6 @@
 # Java API Classes + 
 
-- ![Tech-Stack](https://github.com/Dfredude/java/tree/main/missions/src/Chapter08/images/Tech-Stack-Tree.png)
+- ![Tech-Stack](https://github.com/Dfredude/java/blob/main/missions/src/chapter08/images/Java-Tech-Stack.png?raw=true)
 
 # Self-test questions
 
