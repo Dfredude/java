@@ -1,6 +1,6 @@
 package chapter06;
 
-public class Porject_07_CreatingDivision {
+public class Project_07_CreatingDivision {
 
 	public static void main(String[] args) {
 		System.out.println(divideByTwo(600));

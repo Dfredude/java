@@ -1,6 +1,6 @@
 package chapter08;
 
-public class AMatrixMultiplier {
+public class Project_01_MatrixMultiplier {
 
 	public static void main(String[] args) {
 		int[][] matrix1 = {{2, 3}, {3, 4}, {4, 5}};
@@ -13,10 +13,8 @@ public class AMatrixMultiplier {
 			for (int j = 0; j<len; j++) {
 				sum = 0;
 				for (int k = 0; k < matrix1.length; k++) {
-					System.out.println(matrix1[k][i]+ " is multiplied by " + matrix2[j][k]);
 					sum += (matrix1[k][i] * matrix2[j][k]); 
 				}
-				System.out.println("This round gave us: "+sum);
 				new_matrix[i][j] = sum; 
 				
 			}
