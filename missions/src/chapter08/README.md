@@ -1,6 +1,6 @@
 # Java API Classes + Technologies
-- ![API-Classes](https://github.com/Dfredude/java/blob/main/missions/src/chapter08/images/Java-Tech-Stack.png?raw=true)
-- ![Tech-Stack](https://github.com/Dfredude/java/blob/main/missions/src/chapter08/images/collections-framework-overview.png?raw=true)
+- ![API-Classes](https://github.com/Dfredude/java/blob/main/missions/src/chapter08/images/collections%20framework%20overview.png?raw=true)
+- ![Tech-Stack](https://github.com/Dfredude/java/blob/main/missions/src/chapter08/images/Java-Tech-Stack.png?raw=true)
 
 # Self-test questions
 
