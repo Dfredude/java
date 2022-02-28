@@ -1,3 +1,7 @@
+# Java API Classes + 
+
+- ![Tech-Stack](https://github.com/Dfredude/java/tree/main/missions/src/Chapter08/images/Tech-Stack-Tree.png)
+
 # Self-test questions
 
 ## 1. Arrays are contigously allocated memory elements of homogeneous data types. Explain in your own words what that means.
